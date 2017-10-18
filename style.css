@@ -1,0 +1,118 @@
+body {
+  background-color: #001473;
+}
+#header {
+  background-color: black;
+  color: white;
+  font: sans-serif;
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  border: 0;
+}
+#header a {
+  color: white;
+  text-decoration: none;
+}
+.container {
+  margin: 1 auto;
+  padding: 0;
+}
+#content {
+  background-color: #001473;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: auto;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  border: 0;
+}
+#content a {
+  color: white;
+  text-decoration: none;
+}
+#footer {
+  background-color: black;
+  color: celeste;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Raleway', sans-serif;
+  border: 0;
+}
+#footer a {
+  color: celeste;
+  text-decoration: none;
+  height: 150px;
+}
+.column-a {
+  float: left;
+  padding-left: 0;
+  padding-top: 0;
+}
+.quinfo {
+  float: none;
+  padding-right: : 0;
+  padding-top: 0;
+}
+.column-a li {
+  display: inline;
+  float: left;
+  padding: 4;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h4 {
+    display: block;
+    font-size: 1em;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h5 {
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h6 {
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
